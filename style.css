@@ -1,0 +1,23 @@
+/* FONTS */
+@import url("./sources/styles-css/fonts/fonts.css");
+
+/* UTILS */
+@import url("./sources/styles-css/utils/utils.css");
+
+/* HEADER */
+@import url("./sources/styles-css/header/header.css");
+
+/* BODY */
+@import url("./sources/styles-css/body/body.css");
+
+/* PAGE */
+@import url("./sources/styles-css/page/page.css");
+
+    /* MAIN */
+    @import url("./sources/styles-css/page/main/main.css");
+
+    /* SIDEBAR */
+    @import url("./sources/styles-css/page/sidebar/sidebar.css");
+
+/* FOOTER */
+@import url("./sources/styles-css/footer/footer.css");

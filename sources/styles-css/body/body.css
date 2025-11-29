@@ -1,0 +1,11 @@
+body {
+    --color-style: #b59f5b;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  font-family: "OpenSans", "Arial", sans-serif;
+}
